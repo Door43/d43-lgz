@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lgz:home|Door43 (lgz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lgz|d43-lgz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lgz/archive/master.zip|d43-lgz.zip]]
+
+**Recent Changes**
+{{changes>ns = lgz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lgz|Ethnologue data]]
+
